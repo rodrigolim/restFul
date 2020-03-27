@@ -1,2 +1,4 @@
 # restFul
-Testando web Service Rest Ful  Java
+Testando web Service Rest Ful em JAVA
+
+primeiros passos.
